@@ -1,0 +1,2 @@
+D:\C++ Development\UDP_SERVER\Debug\UDP_SERVER.exe
+D:\C++ Development\UDP_SERVER\Debug\UDP_SERVER.pdb
